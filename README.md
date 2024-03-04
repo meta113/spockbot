@@ -1,0 +1,2 @@
+# spockbot
+say,hi
